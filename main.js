@@ -4,7 +4,7 @@ let unityInstance = null;
 // --- 1. MEMUAT UNITY WEBGL ---
 createUnityInstance(document.querySelector("#unity-canvas"), {
     // Ganti nama file-file ini agar sesuai dengan yang ada di folder 'Build' Anda
-    dataUrl: "Build/0f185b0d00c8cdfefcd5e5d4995cad18.data.unityweb",
+    dataUrl: "Build/c25dc7311c58a429558cdf8192b56694.data.unityweb",
     frameworkUrl: "Build/e12b0b29dc0157589c8043a47dae28cf.framework.js.unityweb",
     codeUrl: "Build/3049e8df3148081e2a6923b7aa15988c.wasm.unityweb",
     // ---
