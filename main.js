@@ -4,9 +4,9 @@ let unityInstance = null;
 // --- 1. MEMUAT UNITY WEBGL ---
 createUnityInstance(document.querySelector("#unity-canvas"), {
     // Ganti nama file-file ini agar sesuai dengan yang ada di folder 'Build' Anda
-    dataUrl: "Build/89083fad0a301308d7a61cc3d2a56b00.data.unityweb",
-    frameworkUrl: "Build/62cdff2458dc86fc2c552ba417033a5c.framework.js.unityweb",
-    codeUrl: "Build/5b45edd38a6cb5e85f87764a53d68f02.wasm.unityweb",
+    dataUrl: "Build/0f185b0d00c8cdfefcd5e5d4995cad18.data.unityweb",
+    frameworkUrl: "Build/e12b0b29dc0157589c8043a47dae28cf.framework.js.unityweb",
+    codeUrl: "Build/3049e8df3148081e2a6923b7aa15988c.wasm.unityweb",
     // ---
     streamingAssetsUrl: "StreamingAssets",
     companyName: "Vidatra",
